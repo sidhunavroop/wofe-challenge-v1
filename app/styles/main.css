@@ -1,0 +1,10 @@
+.product-list {
+  margin: 5px;
+}
+.gridListdemoBasicUsage md-grid-list {
+  margin: 8px; }
+  
+.product-card ._md {
+  height: 700px;
+  width: auto;
+}
